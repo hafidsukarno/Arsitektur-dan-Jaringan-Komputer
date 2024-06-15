@@ -1,0 +1,11 @@
+
+*{
+    background-color: rgb(240, 240, 240);
+}
+.Langkah2{
+    display: flex;
+    justify-content: center;
+}
+.ukuran{
+    font-size:small;
+}
